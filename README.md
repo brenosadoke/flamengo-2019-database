@@ -54,13 +54,11 @@ Isso importa porque, ao longo do processo, esse cuidado **pegou erros reais**:
 
 ## 📈 Principais resultados
 
-*(preencha aqui com seus números finais: artilheiro, garçom, mês com mais gols, posição que mais marcou)*
+artilheiro = gabriel barbosa com 43 gols
+garçom - arrascaeta com 22 assistencias
+mês com mais gols = julho, com um total de 20 gols em 6 partidas disputadas
+posição que mais marcou = atacante)*
 
-## 🚀 Possíveis próximos passos
-
-- Adicionar coluna de competição em `partidas` para analisar desempenho por torneio
-- Registrar qual assistência corresponde a qual gol especificamente
-- Expandir para outras temporadas do clube
 
 ---
 
